@@ -10,6 +10,7 @@
 
 ```yaml
 # Сообщения
+# Форматирование с помощью https://docs.advntr.dev/minimessage/format.html
 reloadConfig: "<green>Конфигурация перезагружена!"
 noPermission: "<red>Недостаточно прав!"
 elytraUseMessage: "<red>Элитры отключены!"
