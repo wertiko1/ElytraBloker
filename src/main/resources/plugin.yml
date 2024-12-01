@@ -1,0 +1,14 @@
+name: ElytraBlocker
+version: '1.0-SNAPSHOT'
+main: me.wertiko.elytraBlocker.ElytraBlocker
+api-version: '1.21'
+
+commands:
+  elyblock:
+    description: Команды для управления ElytraBlocker.
+    usage: /elyblock <reload|toggle>
+    permission: elytrablocker.admin
+
+permissions:
+  elytrablocker.admin:
+    default: op

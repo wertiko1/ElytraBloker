@@ -1,0 +1,5 @@
+reloadConfig: "<green>Конфигурация перезагружена!"
+noPermission: "<red>Недостаточно прав!"
+elytraUseMessage: "<red>Элитры отключены!"
+isEnable: true
+isDropElytra: true
